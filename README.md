@@ -15,6 +15,7 @@
 <h2 align="center">
   💬About Me
 </h2>
+
 Developer, student of the Moscow Aviation Institute, department 806, passionate about backend, system analyst and algorithms.
 - 🔭 I work on the backend of web applications, and also develop myself as a system analyst.
 - :zap: In my free time, I'm learning new frameworks and ways to design systems.
