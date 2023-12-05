@@ -20,13 +20,13 @@ Developer, student of the Moscow Aviation Institute, department 806, passionate 
 - 🔭 I work on the backend of web applications, and also develop myself as a system analyst.
 - :zap: In my free time, I'm learning new frameworks and ways to design systems.
 
-- Participation in projects during education:
-  - [**ProcTrack**](https://github.com/crewch/ProcTrack) [ASP.NET Core, Typescript, Docker, Minio, Nginx] - A system for tracking business processes;
-  - [**UStore**](https://github.com/Uzym/UStore) [ASP.NET Core, Python, Typescript, Docker, Minio, Nginx] - Online store in Telegram and CRM system;
-  - [**Localboard**](https://github.com/Uzym/Localboard) [FastAPI, Docker, k8s, aiogram] - Bulletin board in Telegram;
-  - [**LikeFaceApp bot**](https://github.com/Uzym/OOP_curs) [aiogram, RabbitMq, Docker, k8s] - A bot that applies various filters to people's face images;
-  - [**TrueTechHack**](https://github.com/Pavloffff/TrueTechHack) [C++, React] - A service that processes streaming video for people suffering from epilepsy or color blindness;
-  - [**VTB API hackathon**](https://github.com/NikolaySimakov/encryption-algorithms-api) [FastAPI, Docker] - API for identifying GOST encryption algorithms.
+Participation in projects during education:
+- [**ProcTrack**](https://github.com/crewch/ProcTrack) [ASP.NET Core, Typescript, Docker, Minio, Nginx] - A system for tracking business processes;
+- [**UStore**](https://github.com/Uzym/UStore) [ASP.NET Core, Python, Typescript, Docker, Minio, Nginx] - Online store in Telegram and CRM system;
+- [**Localboard**](https://github.com/Uzym/Localboard) [FastAPI, Docker, k8s, aiogram] - Bulletin board in Telegram;
+- [**LikeFaceApp bot**](https://github.com/Uzym/OOP_curs) [aiogram, RabbitMq, Docker, k8s] - A bot that applies various filters to people's face images;
+- [**TrueTechHack**](https://github.com/Pavloffff/TrueTechHack) [C++, React] - A service that processes streaming video for people suffering from epilepsy or color blindness;
+- [**VTB API hackathon**](https://github.com/NikolaySimakov/encryption-algorithms-api) [FastAPI, Docker] - API for identifying GOST encryption algorithms.
 
 ---
 <h2 align="center">
