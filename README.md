@@ -12,8 +12,9 @@
 </div>
 
 ---
-
-### 💬About Me :
+<h2 align="center">
+  💬About Me
+</h2>
 Developer, student of the Moscow Aviation Institute, department 806, passionate about backend, system analyst and algorithms.
 - 🔭 I work on the backend of web applications, and also develop myself as a system analyst.
 - :zap: In my free time, I'm learning new frameworks and ways to design systems.
@@ -27,8 +28,9 @@ Developer, student of the Moscow Aviation Institute, department 806, passionate 
   - [**VTB API hackathon**](https://github.com/NikolaySimakov/encryption-algorithms-api) [FastAPI, Docker] - API for identifying GOST encryption algorithms.
 
 ---
-
-### 🛠Languages and Tools :
+<h2 align="center">
+  🛠Languages and Tools
+</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
@@ -52,8 +54,9 @@ Developer, student of the Moscow Aviation Institute, department 806, passionate 
 
 ---
 
-### ⚡My Stats :
-
+<h2 align="center">
+  ⚡My Stats
+</h2>
 <table>
   <tr>
     <td>
