@@ -1,15 +1,11 @@
 <h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
   
+  ![Hello](https://github.com/Uzym/Uzym/blob/main/header.png)
   ![Learning](https://img.shields.io/badge/learning-in%20process-success)
   ![Sleep](https://img.shields.io/badge/sleep-8%20hrs-green)
   ![Eat](https://img.shields.io/badge/eat-1%20hr-yellow)
   ![Code](https://img.shields.io/badge/code-15%20hrs-red)
-  <img src="https://media.giphy.com/media/RfRkr4IaI5hxDUaW5l/giphy.gif" width="800" height="300"/>
-</div>
+</h1>
 
 ---
 <h2 align="center">
